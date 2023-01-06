@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
-> [Front-end-Link](https://github.com/karlavdelgadof/hello-react-front-end.git)
+> [Front-end-Link](https://github.com/basitali111/hello-react-front-end)
 
 > Hello Rails React is a simple web app that combines functionalities of Ruby on Rails and React. It allows users to get a random greeting from the backend API.
 
@@ -196,11 +196,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Basit Ali**
+:man_technologist: 👤 **Basit Ali** :writing_hand:
 
-- GitHub: [@githubhandle](https://github.com/basitali111)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-ali-jobs/)
-- Twitter: [Twitter](https://twitter.com/BasitAl35031734)
+- GitHub: [@PNdunguMaina](https://github.com/PNdunguMaina)
+- LinkedIn: [Patrick Maina](https://www.linkedin.com/in/pndungumaina/)
+- Twitter: [@ndunguwamaina_](https://twitter.com/ndunguwamaina_)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
